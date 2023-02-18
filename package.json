@@ -1,0 +1,23 @@
+{
+  "name": "random-joke.github.io",
+  "version": "1.0.0",
+  "description": "Random Joke Generator Using HTML, TailwindCSS &amp; Javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i input.css -o style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalajiSai2003/Random-Joke.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalajiSai2003/Random-Joke.github.io/issues"
+  },
+  "homepage": "https://github.com/BalajiSai2003/Random-Joke.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
